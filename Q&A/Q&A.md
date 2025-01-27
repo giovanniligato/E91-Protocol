@@ -53,7 +53,7 @@ $$\langle A_1 B_1 \rangle = -\frac{1}{\sqrt{2}}, \quad \langle A_2 B_1 \rangle =
 La formula di $S$, che ho visto che dipende sia dalla scelta degli osservabili che dallo stato considerato per il calcolo delle expectation, diventa:  
 $$S = | \langle A_1 B_1 \rangle + \langle A_1 B_2 \rangle + \langle A_2 B_1 \rangle - \langle A_2 B_2 \rangle |$$  
 
-Questa formula coincide anche con quella riportata su Wikipedia: (Tsirelson's bound) https://en.wikipedia.org/wiki/Tsirelson%27s_bound  
+Questa formula coincide anche con quella riportata su Wikipedia: [Tsirelson's bound](https://en.wikipedia.org/wiki/Tsirelson%27s_bound). 
 
 Con questa scelta, sperimentalmente ottengo valori di $S$ vicini a $2\sqrt{2}$, coerenti con la teoria.  
 
