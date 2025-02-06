@@ -1,4 +1,4 @@
-# Just some Notes on the Project
+# Notes on the Project
 
 Requirements and suggestions from the Professor:
 - Notebook code should be well commented
